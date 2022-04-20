@@ -37,4 +37,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="sdm660_64-user 10 QKQ1 73 release-keys"
 
 # Build fingerprint
-BUILD_FINGERPRINT := "asus/WW_X01BD/ASUS_X01BD_1:10/QKQ1/17.2018.2012.434-20201203:user/release-keys"
+BUILD_FINGERPRINT := "google/redfin/redfin:12/S3B1.220318.003/8372304:user/release-keys"
